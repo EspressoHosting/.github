@@ -1,5 +1,7 @@
 # ☕ Espresso Hosting
 
+![logo](https://github.com/user-attachments/assets/4407a876-d27c-4b1a-a77b-00d335f85cd4)
+
 **Your Daily Dose of Reliable Hosting**
 
 ---
