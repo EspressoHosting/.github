@@ -40,7 +40,7 @@ The visionary behind Espresso Hosting's success story. Devyanashu, the lead deve
 
 Follow our development here on GitHub as we continue to innovate and expand our platform. Contributions, feedback, and ideas are always welcome.
 
-Website: soon
+Website: https://espressohost.xyz/
 
 ---
 
